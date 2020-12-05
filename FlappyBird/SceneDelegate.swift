@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  FlappyBird
 //
-//  Created by 川口彰太郎 on 2020/10/05.
+//  Created by Shotaro Kawaguchi on 2020/10/05.
 //  Copyright © 2020 shotaro.kawaguchi. All rights reserved.
 //
 
